@@ -1,0 +1,86 @@
+[2022-02-10 16:03:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-02-10 16:03:17] [WARNING]: 将在 5秒 后继续. 
+[2022-02-10 16:03:22] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-02-10 16:03:47] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-02-10 16:03:47] [WARNING]: 将在 5秒 后继续. 
+[2022-02-10 16:04:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-02-10 16:04:11] [WARNING]: 将在 5秒 后继续. 
+[2022-02-10 16:04:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:04:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:04:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:04:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:04:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:04:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:05:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 16:05:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 17:04:14] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64346->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 17:04:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64346->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 17:04:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 17:23:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64682->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 17:23:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64682->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 17:41:34] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56038->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 17:41:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56038->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 17:44:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-02-10 19:11:48] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49373->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:11:52] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49373->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 19:11:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:12:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:12:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:12:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:12:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:23:40] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49437->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:23:42] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49437->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:25:02] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64830->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:25:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64830->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 19:25:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:25:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:27:05] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:52071->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:27:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:52071->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:29:57] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54830->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:29:57] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54830->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:30:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:30:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:59999/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:59999: connectex: No connection could be made because the target machine actively refused it. 
+[2022-02-10 19:32:13] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54940->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:32:17] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54940->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 19:36:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54972->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 19:36:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54972->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:08:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:59018->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:08:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59018->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:11:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56997->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:11:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56997->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:12:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53262->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:12:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53262->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:13:51] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53299->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:13:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53299->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 20:21:02] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53332->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:21:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53332->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:23:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54902->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:23:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54902->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:24:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54942->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:38:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:60046->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:38:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60046->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 20:43:59] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:60126->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:44:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60126->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:44:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57865->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:44:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57865->127.0.0.1:59999: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:46:47] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:57896->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:46:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57896->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 20:47:43] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49721->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-02-10 20:47:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49721->127.0.0.1:59999: use of closed network connection 
+[2022-02-10 20:48:37] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49748->127.0.0.1:59999: wsarecv: An existing connection was forcibly closed by the remote host. 
